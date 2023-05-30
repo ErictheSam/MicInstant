@@ -69,7 +69,7 @@ For figure 3, blue box is what we want to add to the real UI. Luckily, we can ad
 
 ## Teamwork
 
-Yue Sun: Software Developer
+Yue Sun, Yibo Shen: Software Developer
 
 Evie Mo, Linda Huang: Designer
 
